@@ -9,3 +9,9 @@ O que aprendemos:
 <li>Como podemos abstrair os passos que fazemos “de cabeça” para código, observando a sequência dos passos utilizados;
 <li>Que, para resolver um problema, muitas vezes utilizamos mais de um algoritmo; para resolver isso, criamos a função menorValor() para reaproveitar o código junto com o Selection Sort.
   
+
+  
+   
+<img src="https://github.com/marcospatton/Fundamentos-do-JavaScript-Tipos-vari-veis-e-fun-es/blob/main/logoJavaScript.png"></a>
+<br><br>
+
